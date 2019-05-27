@@ -150,17 +150,14 @@ background-color:white;}
 #kvadratek_tri{
 	width:50%;
 	float:left;
-	height:50%;
+	height:float;
 background-color:white;}
 
 #kvadratek_stiri{
 	width:50%;
 	float:left;
-	height:50%;
+	height:float;
 background-color:white;}
-	
-slika{
-position:center}
 	
 
 
